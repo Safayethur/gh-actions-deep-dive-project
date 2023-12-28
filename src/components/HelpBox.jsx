@@ -3,6 +3,8 @@ import { string } from 'prop-types';
 import './HelpBox.css';
 
 //Random Comment
+//Random Comment 2
+
 
 function HelpBox({ title, text }) {
   return (
