@@ -7,7 +7,6 @@ import './HelpBox.css';
 //Random Comment 2
 
 
-
 function HelpBox({ title, text }) {
   return (
     <article className="help-box">
