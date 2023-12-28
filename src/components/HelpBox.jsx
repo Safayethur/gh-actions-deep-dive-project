@@ -4,7 +4,9 @@ import './HelpBox.css';
 
 //Random Comment
 //Random Comment 2
-//Random Comment 2
+//Random Comment 3
+//Random Comment 4
+
 
 
 function HelpBox({ title, text }) {
