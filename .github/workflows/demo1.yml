@@ -7,10 +7,8 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - "main"
-      - "develop"
-    paths:
-      - "src/*"
+      - 'main'
+      - 'develop'
 
 jobs:
   deploy:
